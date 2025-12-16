@@ -40,7 +40,7 @@ const projects = [
     description:
       "A creative portfolio website for a photographer, featuring smooth animations, image galleries, and a custom CMS for easy content management.",
     tags: ["Figma"],
-    image: "WhatsApp Image 2025-12-16 at 18.20.36_7a73f424.JPG",
+    image: "WhatsApp Image 2025-12-16 at 18.20.36_7a73f424.jpg",
     github: "#",
     live: "https://www.figma.com/design/tViLQdIHmvOnqtMUlldqXi/Untitled?node-id=0-1&t=KgOmkQiWHXl0Fi9I-1",
     featured: false,
