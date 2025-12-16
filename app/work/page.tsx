@@ -10,7 +10,7 @@ const projects = [
     tags: ["React", "Next.js", "TypeScript", "Stripe", "Tailwind CSS"],
     image: "download.png",
     github: "#",
-    live: "#",
+    live: "https://joautohub.com/en",
     featured: true,
   },
   {
@@ -36,45 +36,18 @@ const projects = [
   },
 
   {
-    title: "Portfolio Website",
+    title: "Portfolio ",
     description:
       "A creative portfolio website for a photographer, featuring smooth animations, image galleries, and a custom CMS for easy content management.",
-    tags: ["Next.js", "Framer Motion", "Sanity CMS", "CSS"],
-    image: "/photography-portfolio.png",
+    tags: ["Figma"],
+    image: "WhatsApp Image 2025-12-16 at 18.20.36_7a73f424.JPG",
     github: "#",
-    live: "#",
+    live: "https://www.figma.com/design/tViLQdIHmvOnqtMUlldqXi/Untitled?node-id=0-1&t=KgOmkQiWHXl0Fi9I-1",
     featured: false,
   },
-  {
-    title: "Weather Dashboard",
-    description:
-      "A real-time weather dashboard with location-based forecasts, interactive maps, and detailed weather analytics.",
-    tags: ["React", "OpenWeather API", "Chart.js", "Bootstrap"],
-    image: "/weather-dashboard-interface.png",
-    github: "#",
-    live: "#",
-    featured: false,
-  },
-  {
-    title: "Social Media App",
-    description:
-      "A social networking platform with user profiles, post creation, real-time messaging, and content discovery features.",
-    tags: ["React", "Node.js", "MongoDB", "Socket.io"],
-    image: "/social-media-app-interface.png",
-    github: "#",
-    live: "#",
-    featured: false,
-  },
-  {
-    title: "Fitness Tracker",
-    description:
-      "A mobile fitness tracking application with workout logging, progress tracking, and personalized workout recommendations.",
-    tags: ["Flutter", "Dart", "Firebase", "Health API"],
-    image: "/fitness-tracker-mobile-app.jpg",
-    github: "#",
-    live: "#",
-    featured: false,
-  },
+  
+  
+ 
 ]
 
 export default function WorkPage() {
@@ -153,7 +126,7 @@ export default function WorkPage() {
           </div>
         </div>
 
-        {/* Other Projects */}
+        {/* UI/UX Projects */}
         <div>
           <h2 className="text-2xl font-bold mb-8">Other Projects</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
